@@ -1,0 +1,64 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=Elevator
+
+[Library]
+Elevator=.\Elevator.LIB
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+Elevator=.
+Active_lib=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=control_tb|testbench_for_control|1 
+ShowHide=ShowTopLevel
+Selected=
+
+[Groups]
+TestBench=1
+Wavefrom Outputs=1
+
+[Files]
+/Controller.vhd=-1
+/Memory.vhd=-1
+TestBench/control_TB.vhd=-1
+TestBench/control_TB_runtest.do=-1
+Wavefrom Outputs/waveform_out.asdb=-1
+Wavefrom Outputs/waveform_out.awc=-1
+
+[Files.Data]
+.\src\Controller.vhd=VHDL Source Code
+.\src\Memory.vhd=VHDL Source Code
+.\src\TestBench\control_TB.vhd=VHDL Test Bench
+.\src\TestBench\control_TB_runtest.do=Macro
+.\src\Wavefrom Outputs\waveform_out.asdb=Accelerated Waveform File
+.\src\Wavefrom Outputs\waveform_out.awc=Accelerated Waveform Configuration
+

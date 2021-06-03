@@ -1,0 +1,1 @@
+-w -s "E:\Progrmming\VHDL Projects\CAD_Final_Project\library.cfg"  -j "E:\Progrmming\VHDL Projects\CAD_Final_Project\Elevator\projlib.cfg"  -d "E:\Progrmming\VHDL Projects\CAD_Final_Project\Elevator\compile"   -work Elevator  -O3 -e 100 -2002 "E:\Progrmming\VHDL Projects\CAD_Final_Project\Elevator\src\TestBench\control_TB.vhd" 

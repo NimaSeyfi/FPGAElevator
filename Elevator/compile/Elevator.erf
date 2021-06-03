@@ -1,0 +1,6 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available." 
+MESSAGE "File: E:\Progrmming\VHDL Projects\CAD_Final_Project\Elevator\src\TestBench\control_TB.vhd" 
+MESSAGE "Compile Entity "control_tb"" 
+MESSAGE "Compile Architecture "TB_ARCHITECTURE" of Entity "control_tb"" 
+MESSAGE "Compile Configuration "TESTBENCH_FOR_control"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]" 

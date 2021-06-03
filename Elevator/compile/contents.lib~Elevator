@@ -1,0 +1,11 @@
+1368
+~E 1 "./src/TestBench/memory_TB.vhd" 7 memory_tb
+~A 1 "./src/TestBench/memory_TB.vhd" 14 tb_architecture
+~E 1 "./src/TestBench/control_TB.vhd" 7 control_tb
+~A 1 "./src/TestBench/control_TB.vhd" 14 tb_architecture
+~E 1 "./src/Controller.vhd" 5 control
+~A 1 "./src/Controller.vhd" 23 behaviour
+~E 1 "./src/Memory.vhd" 5 memory
+~A 1 "./src/Memory.vhd" 20 behaviour
+~C 1 "./src/TestBench/control_TB.vhd" 80 testbench_for_control
+~C 1 "./src/TestBench/memory_TB.vhd" 95 testbench_for_memory

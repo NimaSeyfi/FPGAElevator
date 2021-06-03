@@ -1,0 +1,3 @@
+.\src\Controller.vhd
+.\src\Memory.vhd
+.\src\TestBench\control_TB.vhd
